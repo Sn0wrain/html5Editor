@@ -2,7 +2,7 @@
 $public_system_db_host = '127.0.0.1';
 $public_system_db_name = 'yiqixiu';  //'cj';
 $public_system_db_user = 'root';
-$public_system_db_pwd =   '123456';//feitian20!#'asd489QWD145QWSA4S@269S45S';
+$public_system_db_pwd =   '168168';//feitian20!#'asd489QWD145QWSA4S@269S45S';
 
 return array (
     'LOG_RECORD' => false,
